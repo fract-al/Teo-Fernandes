@@ -22,7 +22,7 @@ Java, Python, HTML, C++
 <br>
 <br>
 
-Programação e jogos:
+Programação de jogos:
 <br>
 Construct 2
 
