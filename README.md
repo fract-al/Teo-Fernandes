@@ -1,5 +1,8 @@
 # Teo-Fernandes
 <br>
+
+## Principal
+
 Atual 16 anos
 <br>
 🎂 Dia do bolo: 20/12/2005
@@ -8,39 +11,40 @@ Atual 16 anos
 🇧🇷 Morando em Criciúma SC
 
 <br>
-<br>
 
 Estudante da SATC e cursando técnico em Informatica
 
 <br>
 <br>
 
-Programo em:
+## Experiencias
+<br>
+
+### Geral:
 <br>
 Java, Python, HTML, C++
-
-<br>
 <br>
 
-Programação de jogos:
+### Jogos:
 <br>
 Construct 2
 
 <br>
 <br>
 
+## Tempo livre
 🎸 Aprendendo guitarra pra tocar no Guns & Roses no Metallica no ACDC e no Dragonforce ao mesmo tempo
 <br>
 😎 Habilidade de ficar diversas horas on-line sem ter dor de cabeça
 <br>
 🎮 Cerca de 200 horas de Apex legends e ainda não jogo bem
-
 <br>
-<br>
-
 🍕 Adoro uma pizza pro fim de semana se deixar como todo dia séloko
+
 <br>
 <br>
+
+## Extras
 
 tenho a sindrome do vai dar namoro
 <br>
